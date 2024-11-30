@@ -1,0 +1,9 @@
+
+-- MySQL
+INSERT INTO pessoa (pessoa_id, p_nome, s_nome)
+VALUES (1, 'Osvaldo', 'Silva');
+
+
+-- POSTGRES
+INSERT INTO CLIENTES (ID_CLIENTE, NM_CLIENTE, SOBRENOME, DT_NASCIMENTO,TELEFONE, FG_ATIVO)
+VALUES (5, 'Dolores', 'Silva', '20-05-1970', NULL, 1);
